@@ -1,4 +1,6 @@
-# Base62.go
+# Base62
+
+`go get github.com/carbocation/base62`
 
 An attempt at a go library to provide Base62 encoding, perfect for URL shorteners.
 
